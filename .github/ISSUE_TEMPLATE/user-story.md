@@ -2,8 +2,8 @@
 name: User Story
 about: Defining User Story
 title: ''
-labels: ''
-assignees: ''
+labels: new
+assignees: olanrewajufarooq
 
 ---
 
